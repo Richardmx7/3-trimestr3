@@ -1,6 +1,9 @@
-Trabalho de Pensamento Computacional
-João De Faria Pioli
-Site sobre a barbearia
-# 3-trimestre
-Gustavo Pereira de Rezende e
-Richard Marques Xavier
+Colegio Estadual João de Faria Pioli
+
+Projeto de Pensamento Computacional
+
+Nome:Richard Marques Xavier E Gustavo Pereira De Rezende 
+
+Serie:1 ano D
+
+Meu site é sobre:Barbearia
